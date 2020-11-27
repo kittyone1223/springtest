@@ -8,5 +8,6 @@ package com.offcn;
 public class Test {
     public static void main(String[] args) {
         System.out.println("666666666666");
+        System.out.println("123456");
     }
 }
